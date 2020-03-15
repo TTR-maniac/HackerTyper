@@ -1,0 +1,45 @@
+About me
+    Name: HOANG ANH MINH
+    D.O.B: 25/06/2000
+    Nationality: Vietnamese
+    Experienced IT developer with a demonstrated history of working in the software industry. 
+    Skilled in Javascript, Nodejs, Php, Laravel, ReactJS, Java, Springboot, HTML, CSS, Bootstrap, Linux server, ...
+
+Education
+    High School: Hus High School for Gifted Students
+    Major: Chemistry
+    Time: Graduated
+    GPA: 9.1/10
+
+    University: Vaasa University of Applied Sciences
+    Major: Information technology
+    Time: Present
+    GPA: 3.7/5
+
+Experience
+    Company: ANZ Solution and Technology Joint Stock Company
+    Position: JavaScript Developer
+    Process: Completed
+
+    Company: Vietpro Technology Academy
+    Position: PHP Web Developer
+    Process: Completed
+
+Skills
+    Language: JavaScript, PHP, Java, C
+    Frontend: HTML, CSS, BOOTSTRAP, REACTJS
+    Backend: NodeJs, Laravel, Springboot
+    Server: Linux
+
+Project
+    Mobile Shop by using PHP (backend + frontend)
+    Shopping web by using Laravel (backend + frontend)
+    Raspberry Pi
+    Natours by using NodeJs (backend + frontend)
+    Another projects
+    For more information, please check out my github
+
+Contact
+    Email: anhminh10a2hoa@gmail.com
+    Phone: 0403620608
+    Address: Vaasa - Finland
